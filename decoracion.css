@@ -1,0 +1,74 @@
+.reproductor-minimal {
+    position: absolute;
+    top: 63%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 60px;
+    width: 100%;
+    max-width: 30px;
+}
+
+.btn-play {
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 50%;
+    background: #667eea;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.btn-play:hover {
+    transform: scale(1.05);
+}
+
+.texto{
+    position: absolute;
+    top: 68%;
+    left: 5%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: #9dd4f0;
+    font-size: 30px;
+    font-family: 'Dancing Script';
+}
+
+.MIS{
+    display: flex; 
+    justify-content: center;
+    font-family: 'Dancing Script'; 
+    font-size: 60px;
+    color: #9dd4f0; 
+}
+
+.Foto{
+    display: flex;
+    justify-content: center;
+}
+
+.Nombre{
+    display: flex; 
+    justify-content: center;
+    font-family: 'Dancing Script'; 
+    font-size: 60px;
+    color: #9dd4f0; 
+}
+
+.Presiona{
+    display: flex;
+    justify-content: center;
+    color: #9dd4f0;
+    font-size: 25px;
+    font-family: 'Dancing Script'; 
+}
+
+body{
+    background-image: url(fondo.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
