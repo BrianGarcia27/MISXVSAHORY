@@ -39,7 +39,7 @@
 }
 .cu{
     position: absolute;
-    top: 120%;
+    top: 140%;
     left: 22%;
     display: flex;
     text-align: center;
@@ -84,7 +84,7 @@
 .Presiona{
     position: absolute;
     top: 55%;
-    left: 22%;
+    left: 26%;
     display: flex;
     justify-content: center;
     color: #ffffff;
