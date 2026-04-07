@@ -42,6 +42,7 @@
     top: 120%;
     left: 28%;
     display: flex;
+    text-align: center;
     justify-content: center;
     color: #ffffff;
     font-size: 60px;
