@@ -1,6 +1,6 @@
 .reproductor-minimal {
     position: absolute;
-    top: 68%;
+    top: 63%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: #f0f0f0;
@@ -40,7 +40,7 @@
 
 .texto{
     position: absolute;
-    top: 75%;
+    top: 70%;
     left: 5%;
     text-align: center;
     display: flex;
