@@ -37,7 +37,16 @@
     font-size: 30px;
     font-family: 'Dancing Script';
 }
-
+.cu{
+    position: absolute;
+    top: 120%;
+    left: 28%;
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 60px;
+    font-family: 'Dancing Script';
+}
 .texto{
     position: absolute;
     top: 70%;
