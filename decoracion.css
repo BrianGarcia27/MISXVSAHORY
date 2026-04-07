@@ -82,6 +82,9 @@
 }
 
 .Presiona{
+    position: absolute;
+    top: 55%;
+    left: 22%;
     display: flex;
     justify-content: center;
     color: #ffffff;
