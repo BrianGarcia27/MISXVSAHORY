@@ -86,4 +86,5 @@ body{
     background-attachment: fixed;
     background-position: center center;
     backdrop-filter: blur(2px);
+    overflow-x: auto;
 }
