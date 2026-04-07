@@ -33,7 +33,7 @@
     text-align: center;
     display: flex;
     justify-content: center;
-    color: #f5f8ff;
+    color: #f77fed;
     font-size: 30px;
     font-family: 'Dancing Script';
 }
@@ -43,7 +43,7 @@
     justify-content: center;
     font-family: 'Dancing Script'; 
     font-size: 60px;
-    color: #f5f8ff; 
+    color: #f77fed; 
 }
 
 .Foto{
@@ -56,13 +56,13 @@
     justify-content: center;
     font-family: 'Dancing Script'; 
     font-size: 60px;
-    color: #f5f8ff; 
+    color: #f77fed; 
 }
 
 .Presiona{
     display: flex;
     justify-content: center;
-    color: #f5f8ff;
+    color: #f77fed;
     font-size: 25px;
     font-family: 'Dancing Script'; 
 }
