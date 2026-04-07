@@ -33,7 +33,7 @@
     text-align: center;
     display: flex;
     justify-content: center;
-    color: #f77fed;
+    color: #ffffff;
     font-size: 30px;
     font-family: 'Dancing Script';
 }
@@ -45,7 +45,7 @@
     text-align: center;
     display: flex;
     justify-content: center;
-    color: #f77fed;
+    color: #ffffff;
     font-size: 30px;
     font-family: 'Dancing Script';
 }
@@ -55,7 +55,7 @@
     justify-content: center;
     font-family: 'Dancing Script'; 
     font-size: 60px;
-    color: #f77fed; 
+    color: #ffffff; 
 }
 
 .Foto{
@@ -68,13 +68,13 @@
     justify-content: center;
     font-family: 'Dancing Script'; 
     font-size: 60px;
-    color: #f77fed; 
+    color: #ffffff; 
 }
 
 .Presiona{
     display: flex;
     justify-content: center;
-    color: #f77fed;
+    color: #ffffff;
     font-size: 25px;
     font-family: 'Dancing Script'; 
 }
